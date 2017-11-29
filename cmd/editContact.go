@@ -16,10 +16,10 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"goCobra/utils"
+	"github.com/OlegKuleba/goCobra/utils"
 	"fmt"
 	"strings"
-	"goCobra/models"
+	"github.com/OlegKuleba/goCobra/models"
 )
 
 // editContactCmd represents the editContact command

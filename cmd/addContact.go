@@ -16,8 +16,8 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"goCobra/utils"
-	"goCobra/models"
+	"github.com/OlegKuleba/goCobra/utils"
+	"github.com/OlegKuleba/goCobra/models"
 	"strings"
 	"fmt"
 )

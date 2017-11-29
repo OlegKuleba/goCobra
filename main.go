@@ -15,7 +15,7 @@
 package main
 
 import (
-	"goCobra/cmd"
+	"github.com/OlegKuleba/goCobra/cmd"
 )
 
 func main() {

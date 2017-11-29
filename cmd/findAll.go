@@ -16,7 +16,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"goCobra/utils"
+	"github.com/OlegKuleba/goCobra/utils"
 )
 
 // findAllCmd represents the findAll command

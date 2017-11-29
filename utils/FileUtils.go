@@ -6,7 +6,7 @@ import (
 	"os"
 	"regexp"
 	"strings"
-	"goCobra/models"
+	"github.com/OlegKuleba/goCobra/models"
 )
 
 // Флаги, использующиеся для валидации
