@@ -2,8 +2,15 @@
 
 It's a GO-application, which uses Cobra technology
 
+### DOWNLOAD
+Use next command:<br>
+**go get github.com/OlegKuleba/goCobra** from anywhere<br>
+or<br>
+**git clone https://github.com/OlegKuleba/goCobra.git** under path %GOPATH%\src\github.com\OlegKuleba
+
 ### USAGE
-All of commands are used with go run main.go {command} [arg1, arg2, ..., argN]
+All of commands are used with go run main.go {command} [arg1, arg2, ..., argN]<br>
+Run them under project folder (e.x. for windows %GOPATH%\src\github.com\OlegKuleba\goCobra)
 
 ### COMMANDS' FORMAT
 #### addContact
